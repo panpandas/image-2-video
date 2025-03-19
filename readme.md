@@ -1,6 +1,6 @@
 # Img2Video.ai - Transform Static Images into Dynamic Videos with AI
 
-Website: [https://img2video.ai/](https://img2video.ai/)
+Website: [Imgae 2 Video Generator](https://img2video.ai/)
 
 ## About Img2Video.ai
 
@@ -12,11 +12,11 @@ At Img2Video.ai, we believe every picture has a story to tell. Our innovative AI
 
 ### 1. Image to Video Generator
 Transform any static image into a dynamic video with our core technology. Simply upload your image, and our AI will add natural movement and life to your still picture, creating a short but impactful video perfect for social media, presentations, or personal projects.
-[Try it now at https://img2video.ai/](https://img2video.ai/)
+Try it now at [Image 2 Video Generator](https://img2video.ai/)
 
 ### 2. Text to Video Generator
 Don't have an image? No problem! Describe your desired video in a short sentence, and our AI will generate a video based on your text prompt. This tool is perfect for creative projects, conceptualizing ideas, or when you need visual content but don't have source images.
-[Try it now at https://img2video.ai/](https://img2video.ai/)
+Try it now at [Text 2 Video Generator](https://img2video.ai/)
 
 ### 3. Product Video Generator
 Transform product images into engaging promotional videos with our specialized Product Video Generator. Perfect for e-commerce businesses, marketers, and product showcases, this tool creates professional-looking product videos that highlight features and increase conversion rates.
@@ -25,7 +25,7 @@ Key Features:
 - Instant Product Videos: Transform product images into professional videos in seconds
 - Custom Animations: Choose from multiple animation styles to showcase your products effectively
 - E-commerce Ready: Perfect for online stores, social media marketing, and product demonstrations
-Try it now at [https://img2video.ai/tool/product-video](https://img2video.ai/tool/product-video)
+Try it now at [Product Video Generator](https://img2video.ai/tool/product-video)
 
 ### 4. AI Dance Video Generator
 Add a fun twist to your images by making them dance! Our AI Dance Video Generator converts still images into dynamic dance videos with AI-powered motion generation. Perfect for creating entertaining content for social media.
@@ -34,7 +34,7 @@ Key Features:
 - Dance Animation: Transform static images into dynamic dancing videos with AI
 - Multiple Dance Styles: Choose from various dance moves and styles for your animations
 - Easy Creation: Create fun dance videos from any photo in just a few clicks
-[Try it now at https://img2video.ai/tool/ai-dance-video](https://img2video.ai/tool/ai-dance-video)
+Try it now at [AI Dance Video Generator](https://img2video.ai/tool/ai-dance-video)
 
 ### 5. Old Photo Animation
 Bring cherished memories to life by adding movement to old photos. Our Old Photo Animation tool transforms vintage photographs into dynamic videos, preserving the past in a new, engaging format.
@@ -43,7 +43,7 @@ Key Features:
 - Photo Animation: Bring old photos to life with AI-powered animation technology
 - Preserve Memories: Transform cherished vintage photos into engaging animated content
 - Easy Restoration: Automatically enhance and animate historical photographs
-Try it now at [https://img2video.ai/tool/old-photo-animation](https://img2video.ai/tool/old-photo-animation)
+Try it now at [Old Photo Animation](https://img2video.ai/tool/old-photo-animation)
 
 ### 6. AI Video Selfie Generator
 Transform your selfies into natural-looking video portraits using advanced AI technology. Add realistic facial expressions and head movements to your still selfies.
@@ -52,7 +52,7 @@ Key Features:
 - Selfie Animation: Turn your selfies into lifelike animated videos
 - Natural Movements: Add realistic facial expressions and head movements
 - Social Media Ready: Perfect for sharing on social media platforms
-Try it now at [https://img2video.ai/tool/ai-video-selfie-maker](https://img2video.ai/tool/ai-video-selfie-maker)
+Try it now at [AI Video Selfie Generator](https://img2video.ai/tool/ai-video-selfie-maker)
 
 ### 7. AI Travel Video Maker
 Turn your travel photos into cinematic video experiences with AI-powered scene animation. Create compelling travel narratives from your static images.
@@ -61,7 +61,7 @@ Key Features:
 - Cinematic Effects: Transform travel photos into stunning cinematic videos
 - Story-Driven: Create compelling travel narratives from your images
 - Professional Look: Get professional-quality travel videos without expensive equipment
-Try it now at [https://img2video.ai/tool/ai-travel-video-maker](https://img2video.ai/tool/ai-travel-video-maker)
+Try it now at [AI Travel Video Maker](https://img2video.ai/tool/ai-travel-video-maker)
 
 ### 8. AI Kiss Video Maker
 Create heartwarming and personalized kissing videos with our AI-powered tool. Generate realistic and romantic kissing videos using advanced AI algorithms.
@@ -70,7 +70,7 @@ Key Features:
 - AI-Powered Kissing Videos: Generate realistic and romantic kissing videos using advanced AI algorithms
 - Easy Video Creation: Simply upload one or two photos and let our AI generate a dynamic kissing scene
 - Fun & Creative Content: Experiment with different photos and create fun, shareable content for social media
-Try it now at [https://img2video.ai/tool/ai-kiss-video-maker](https://img2video.ai/tool/ai-kiss-video-maker)
+Try it now at [AI Kiss Video Maker](https://img2video.ai/tool/ai-kiss-video-maker)
 
 ## Developer API Access
 
@@ -85,7 +85,7 @@ Key Features:
 - RESTful Style AI API: Intuitive and consistent integration for efficient video generation
 - High-Definition Quality: Produce videos in stunning high-definition quality
 
-[Learn more at https://img2video.ai/api](https://img2video.ai/api)
+Learn more at [Image to Video API](https://img2video.ai/api)
 
 ## Why Choose Img2Video.ai?
 
@@ -132,5 +132,5 @@ We support various common image formats like JPEG, PNG for our AI processes. Ens
 
 ## Get Started Today
 
-Ready to see your images come to life as amazing short videos? Visit [https://img2video.ai/](https://img2video.ai/) to create a free account and start transforming your static images into dynamic videos!
+Ready to see your images come to life as amazing short videos? Visit [Img2Video.ai](https://img2video.ai/) to create a free account and start transforming your static images into dynamic videos!
 
