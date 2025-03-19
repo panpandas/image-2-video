@@ -25,7 +25,7 @@ Key Features:
 - Instant Product Videos: Transform product images into professional videos in seconds
 - Custom Animations: Choose from multiple animation styles to showcase your products effectively
 - E-commerce Ready: Perfect for online stores, social media marketing, and product demonstrations
-[Try it now at https://img2video.ai/tools/product-video](https://img2video.ai/tools/product-video)
+Try it now at [https://img2video.ai/tool/product-video](https://img2video.ai/tool/product-video)
 
 ### 4. AI Dance Video Generator
 Add a fun twist to your images by making them dance! Our AI Dance Video Generator converts still images into dynamic dance videos with AI-powered motion generation. Perfect for creating entertaining content for social media.
@@ -34,7 +34,7 @@ Key Features:
 - Dance Animation: Transform static images into dynamic dancing videos with AI
 - Multiple Dance Styles: Choose from various dance moves and styles for your animations
 - Easy Creation: Create fun dance videos from any photo in just a few clicks
-[Try it now at https://img2video.ai/tools/ai-dance-video](https://img2video.ai/tools/ai-dance-video)
+[Try it now at https://img2video.ai/tool/ai-dance-video](https://img2video.ai/tool/ai-dance-video)
 
 ### 5. Old Photo Animation
 Bring cherished memories to life by adding movement to old photos. Our Old Photo Animation tool transforms vintage photographs into dynamic videos, preserving the past in a new, engaging format.
@@ -43,7 +43,7 @@ Key Features:
 - Photo Animation: Bring old photos to life with AI-powered animation technology
 - Preserve Memories: Transform cherished vintage photos into engaging animated content
 - Easy Restoration: Automatically enhance and animate historical photographs
-[Try it now at https://img2video.ai/tools/old-photo-animation](https://img2video.ai/tools/old-photo-animation)
+Try it now at [https://img2video.ai/tool/old-photo-animation](https://img2video.ai/tool/old-photo-animation)
 
 ### 6. AI Video Selfie Generator
 Transform your selfies into natural-looking video portraits using advanced AI technology. Add realistic facial expressions and head movements to your still selfies.
@@ -52,7 +52,7 @@ Key Features:
 - Selfie Animation: Turn your selfies into lifelike animated videos
 - Natural Movements: Add realistic facial expressions and head movements
 - Social Media Ready: Perfect for sharing on social media platforms
-[Try it now at https://img2video.ai/tools/ai-video-selfie-maker](https://img2video.ai/tools/ai-video-selfie-maker)
+Try it now at [https://img2video.ai/tool/ai-video-selfie-maker](https://img2video.ai/tool/ai-video-selfie-maker)
 
 ### 7. AI Travel Video Maker
 Turn your travel photos into cinematic video experiences with AI-powered scene animation. Create compelling travel narratives from your static images.
@@ -61,7 +61,7 @@ Key Features:
 - Cinematic Effects: Transform travel photos into stunning cinematic videos
 - Story-Driven: Create compelling travel narratives from your images
 - Professional Look: Get professional-quality travel videos without expensive equipment
-[Try it now at https://img2video.ai/tools/ai-travel-video-maker](https://img2video.ai/tools/ai-travel-video-maker)
+Try it now at [https://img2video.ai/tool/ai-travel-video-maker](https://img2video.ai/tool/ai-travel-video-maker)
 
 ### 8. AI Kiss Video Maker
 Create heartwarming and personalized kissing videos with our AI-powered tool. Generate realistic and romantic kissing videos using advanced AI algorithms.
@@ -70,7 +70,7 @@ Key Features:
 - AI-Powered Kissing Videos: Generate realistic and romantic kissing videos using advanced AI algorithms
 - Easy Video Creation: Simply upload one or two photos and let our AI generate a dynamic kissing scene
 - Fun & Creative Content: Experiment with different photos and create fun, shareable content for social media
-[Try it now at https://img2video.ai/tools/ai-kiss-video-maker](https://img2video.ai/tools/ai-kiss-video-maker)
+Try it now at [https://img2video.ai/tool/ai-kiss-video-maker](https://img2video.ai/tool/ai-kiss-video-maker)
 
 ## Developer API Access
 
@@ -86,35 +86,6 @@ Key Features:
 - High-Definition Quality: Produce videos in stunning high-definition quality
 
 [Learn more at https://img2video.ai/api](https://img2video.ai/api)
-
-## Subscription Plans
-
-Img2Video.ai offers various subscription plans to meet different needs:
-
-### Free Plan
-- Perfect for starters
-- 2 generations in total
-- Unlimited browsing of website videos
-- Download website videos for free
-
-### Basic Plan
-- Cost-effective option
-- All Free Plan features plus
-- 10 generations per month
-- Download your generations for free
-
-### Premium Plan
-- Best value for enthusiasts
-- All Basic Plan features plus
-- 25 generations per month
-
-### Ultimate Plan
-- Ultimate for professionals
-- All Premium features plus
-- 70 generations per month
-- API Access
-
-[View pricing details at https://img2video.ai/pricing](https://img2video.ai/pricing)
 
 ## Why Choose Img2Video.ai?
 
@@ -163,13 +134,3 @@ We support various common image formats like JPEG, PNG for our AI processes. Ens
 
 Ready to see your images come to life as amazing short videos? Visit [https://img2video.ai/](https://img2video.ai/) to create a free account and start transforming your static images into dynamic videos!
 
-## Contact Us
-
-For any questions or technical support, please contact our customer service team at support@img2video.ai or through our website's contact form.
-
-## Legal Information
-
-- [Terms of Service](https://img2video.ai/terms-of-service)
-- [Privacy Policy](https://img2video.ai/privacy-policy)
-
-Thank you for choosing Img2Video.ai—where your pictures become exciting short videos to share and enjoy!
